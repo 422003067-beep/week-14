@@ -1,0 +1,21 @@
+:root {
+    --bs-primary: #6f42c1;
+}
+
+body {
+    background-color: #f8f9fa;
+
+    background-image: url("bird-breed_2cd7d88f-2438-4acf-9bd8-64c561ae55ae\ \(1\).webp");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    min-height: 100vh;
+}
+
+.card {
+    border-radius: 10px;
+}
